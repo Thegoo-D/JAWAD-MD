@@ -9,7 +9,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here. (Required)",
       "required": true,
-      "value": "EETATHZS"
+      "value": ""
     },
     "PREFIX": {
       "description": "Bot prefix (Default: .)",
